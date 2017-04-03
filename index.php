@@ -9,7 +9,7 @@
 <script type="text/javascript">
 var mono = {};
 //mono.gsscripthost = 'https://localhost/';
-mono.gsscripthost = 'https://green2.herokuapp.com/';
+mono.gsscripthost = 'https://red2.herokuapp.com/';
 mono.gsscriptfile = 'getcode_fromurl.php';
 mono.gsbaseurl = mono.gsscripthost + mono.gsscriptfile;
 mono.ytbase = 'https://www.youtube.com/';
